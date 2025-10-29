@@ -1,0 +1,10 @@
+2025-10-26 20:34:20.917 [main] INFO 
+			api.test.UserTests - ********** Creating User ***********
+2025-10-26 20:34:22.570 [main] INFO 
+			api.test.UserTests - ***********************User is Created***********************
+2025-10-26 20:34:22.579 [main] INFO 
+			api.test.UserTests - ***********************Read a User***********************
+2025-10-26 20:34:22.698 [main] INFO 
+			api.test.UserTests - ********** Updating User info ***********
+2025-10-26 20:34:22.788 [main] INFO 
+			api.test.UserTests - ***********************Delete a User***********************
